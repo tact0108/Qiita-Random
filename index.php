@@ -13,10 +13,11 @@
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/product/qiita-random/css/style.css">
     <!-- JavaScript -->
-    <script src="/product/qiita-random/main.js"></script>
+    <script src="/product/qiita-random/js/main.js"></script>
 </head>
 
 <body>
+    <h1>Qiitaランダム記事</h1>
     <main>
     </main>
     <button type="button" id="btn"><i class="fa-solid fa-rotate-right"></i></i></button>
